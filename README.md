@@ -1,5 +1,5 @@
 # BalatroSave_AppleArcadeMac
-Import &amp; Export Save Files of Balatro+ on Apple Arcade on macOS, meta.jkr and profile.jkr only.
+Import &amp; Export Save Files to/from Balatro+ for Apple Arcade on macOS, meta.jkr and profile.jkr only, save.jkr is not handled.
 
 # How to use
 
